@@ -12,17 +12,17 @@ Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
-Package: com.supermamon.oldpackage
+Package: com.gregorydmitriev.newicons
 Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Section: Themes
+Maintainer: Gregory Dmitriev
+Depends: firmware (<11.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Filename: ./debs/com.gregorydmitriev.newicons
+Size: 795
+MD5sum: a181ab24d0d48f37fd857d38b5fc50f1
+Description: Brings the Home Screen icons from the new iOS versions to the older ones. Supports iOS 7 to iOS 11.
+Name: New Icons
+Author: Gregory Dmitriev
+Depiction: https://cydia-repo.github.io/repo/depictions/?p=com.gregorydmitriev.newicons
 

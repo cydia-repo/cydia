@@ -1,0 +1,24 @@
+<package>
+	<id>com.gregorydmitriev.newicons</id>
+	<name>New Icons</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Brings the Home Screen icons from the new iOS versions to the older ones. Supports iOS 7 to iOS 11.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
