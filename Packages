@@ -13,13 +13,13 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
 Package: com.gregorydmitriev.newicons
-Version: 1.0.0-1
+Version: 3.0
 Section: Themes
 Maintainer: Gregory Dmitriev
 Depends: firmware (<11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.gregorydmitriev.newicons
-Size: 795
+Size: 2780864
 MD5sum: a181ab24d0d48f37fd857d38b5fc50f1
 Description: Brings the Home Screen icons from the new iOS versions to the older ones. Supports iOS 7 to iOS 11.
 Name: New Icons
